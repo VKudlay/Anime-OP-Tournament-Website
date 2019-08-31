@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+
+<head>
+		<!--Sets meta types about the website-->
+			<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<meta name="level" content="3" />
+
+		<!--Sets title of the page-->
+			<title>UR Anime OP Tournament</title>
+
+		<!--Sets title of the page-->
+			<meta http-equiv="description" content="Anime OP Tournament" />
+
+    <!--Bootstrap + Query Implementation -->
+    	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+		<!--Pulls in ALL CUSTOM CSS Stylesheet-->
+			<style type="text/css">	@import url("styles.css"); </style>
+			<style type="text/css">	@import url("jquery.bracket.min.css"); </style>
+
+
+		<!--Pulls in CUSTOM JS Script-->
+	    <script type="text/javascript" src="scripts.js"></script>
+			<script type="text/javascript" src="jquery.bracket.min.js"></script>
+
+
+
+</head>
+
+<body>
+	<div id="container">
+		<header></header>
+
+		<main>
+			<h1 class = "col-md-12">UR Anime Society OP Tournament</h1>
+			<button id="vote-btn" type="button" class="btn btn-info">Vote (9/1/19)</button>
+
+      <!-- Nav tabs -->
+      <ul class="nav nav-tabs" id="group-tabs" role="tablist">
+        <li class="active"><a href="#group1" role="tab" data-toggle="tab">Group 1</a></li>
+      </ul>
+
+      <!-- Tab panes -->
+      <div class="tab-content tourneys" id="group-panes">
+        <div class="tab-pane fade active in" id="group1">
+					<div id="tourney-1"></div>
+        </div>
+      </div>
+
+		</main>
+
+		<footer><h5>UR Anime Society 2019/2020 - Website made by Vadim Kudlay - Chart made with JQuery Brackets</h5></footer>
+	</div>
+</body>
