@@ -13,6 +13,7 @@ body {
 }
 
 main h1 {
+  font-size: 26px;
   width: 100%;
   min-width: max-content;
   text-align: center;
@@ -21,20 +22,21 @@ main h1 {
   height: 10vh;
   background-color: #EEE;
 }
+
 #vote-btn {
-  position: fixed;
+  position: absolute;
   margin: 0 auto;
   z-index: 11;
   left: 40%;
   top: 10vh;
   width: 20%;
+  font-size: 16px;
   min-width: 200px;
-  font-size: 1.4em;
 }
 
 #group-tabs li {
   width: 20%;
-  font-size: 20px;
+  font-size: 16px;
   text-align: center;
 }
 
