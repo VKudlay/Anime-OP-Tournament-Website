@@ -24,7 +24,7 @@ main h1 {
 }
 
 #vote-btn {
-  position: fixed;
+  position: absolute;
   margin: 0 auto;
   z-index: 11;
   left: 40%;

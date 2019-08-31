@@ -142,7 +142,7 @@ vidlinks = new Map([
   ["Kekkai Sensen OP 2", "https://www.youtube.com/watch?v=_16vOCt-sYk"],
   ["Kill la Kill OP 1", "https://www.youtube.com/watch?v=ci3A3OmNHko"],
   ["Kill la Kill OP 2", "https://www.youtube.com/watch?v=qaLeO-2Fytg"],
-  ["Kimi no Nawa OP", "https://youtu.be/qssaTnBiHLo?t=90"],
+  ["Kimi no Na Wa OP", "https://youtu.be/qssaTnBiHLo?t=90"],
   ["Koi To Uso OP 1", "https://www.youtube.com/watch?v=VrmzXR1sI78"],
   ["Kokkoku OP", "https://www.youtube.com/watch?v=fhBA6ynorvc"],
   ["Konosuba OP 2", "https://www.youtube.com/watch?v=4JpR-M1wE5s"],
@@ -290,7 +290,7 @@ teams = [              // Matchups
   ["Twin Star Exorcists OP 2", "Angolmois OP 1"],
   ["Yugioh GX English OP 1", "Eromanga Sensei OP 1"],
   ["Zombieland Saga OP 1", "Tales of Zestiria The X OP 1"],
-  ["Kimi no Nawa OP", "Rage of Bahamut Virgin soul OP 2"]
+  ["Kimi no Na Wa OP", "Rage of Bahamut Virgin soul OP 2"]
 ]
 
 for (var i = 0; i < teams.length; i++) {
