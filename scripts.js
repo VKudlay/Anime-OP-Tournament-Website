@@ -302,12 +302,14 @@ for (var i = 0; i < teams.length; i++) {
 var tourneyData1 = {
   "teams":   teams,
   "results": [            // List of brackets (single elimination, so only one bracket)
-    // [                     // List of rounds in bracket
-    //   [                   // First round in this bracket
-    //     [2, 1],           // Team 1 vs Team 2
-    //     [2, 1]            // Team 3 vs Team 4
-    //   ]
-    // ]
+    [                     // List of rounds in bracket
+      [                   // First round in this bracket
+        [14, 4],
+        [15, 3],
+        [12, 6],
+        [8, 10]
+      ]
+    ]
   ]
 }
 
