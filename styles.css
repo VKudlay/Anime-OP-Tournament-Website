@@ -59,25 +59,6 @@ main h1 {
   font-size: 1.2em !important;
 }
 
-.team:not(.win):not(.lose):not(.highlight):not(.na) {
-  background-color: darkorange !important;
-}
-
-
-.team.win {
-  background-color: deepskyblue !important;
-  color: grey;
-}
-.team.lose {
-  background-color: #555 !important;
-}
-
-#tourney-1 .round:nth-of-type(1) .match:nth-of-type(n+5):nth-of-type(-n+8) {
-  background-color: #333 !important;
-  border: 6px solid #333;
-  padding: 0 2px;
-}
-
 #tourney-1 .round:nth-of-type(n+5) {
   display: none;
 }
