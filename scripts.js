@@ -182,7 +182,7 @@ vidlinks = new Map([
   ["One Piece OP 21", "https://www.youtube.com/watch?v=t7xHamn5inQ"],
   ["One Piece OP 6", "https://www.youtube.com/watch?v=AL8m1Uktt4c"],
   ["One Punch Man OP 1", "https://www.youtube.com/watch?v=atxYe-nOa9w"],
-  ["Ouran Highschool Host Club OP 1", "https://www.youtube.com/watch?v=QXSBh4gtQ7g"],
+  ["Ouran High School Host Club OP 1", "https://www.youtube.com/watch?v=QXSBh4gtQ7g"],
   ["Outlaw Star OP 1", "https://www.youtube.com/watch?v=3LucBfR1w6Y"],
   ["Overlord S1 OP", "https://www.youtube.com/watch?v=KOWcj7XKnfQ"],
   ["Overlord S2 OP", "https://www.youtube.com/watch?v=lfpyJUnwW0w"],
@@ -252,7 +252,7 @@ vidlinks = new Map([
   ["Yamada-kun to 7-Nin Majo OP 1", "https://www.youtube.com/watch?v=QHFif7LRylw"],
   ["Your Lie in April OP 1", "https://www.youtube.com/watch?v=2Ex3bu6CxPU"],
   ["Yugioh 5Ds English OP 1", "https://www.youtube.com/watch?v=BV0STuwQ6QM"],
-  ["Yugioh English OP 1", "https://www.youtube.com/watch?v=Cb3ggoyqXmU"],
+  ["Yugioh English OP 1", "https://youtu.be/Cb3ggoyqXmU?t=42"],
   ["Yugioh GX English OP 1", "https://www.youtube.com/watch?v=CN_DjYDHEVU"],
   ["Yuri On Ice OP 1", "https://www.youtube.com/watch?v=ORDXWrL5EuQ"],
   ["Zombieland Saga OP 1", "https://www.youtube.com/watch?v=W22SxsxXTWc"]
@@ -263,7 +263,7 @@ teams = [              // Matchups
   ["Promised Neverland OP 1", "Hunter X Hunter New OP 1"],
   ["My Hero Aca S2 OP 1", "Day Break Illusion OP 1"],
   ["Asterisk War OP 1", "Grimgar of Fantasy and Ash"],
-  ["Ouran Highschool Host Club OP 1", "Future Diary OP 2"],
+  ["Ouran High School Host Club OP 1", "Future Diary OP 2"],
   ["Jojo Part 2 OP", "Pandora Hearts OP 1"],
   ["Kill la Kill OP 1", "AICO Incarnation OP 1"],
   ["Steins:Gate OP 1", "Vampire Knight Guilty OP"],
@@ -304,10 +304,14 @@ var tourneyData1 = {
   "results": [            // List of brackets (single elimination, so only one bracket)
     [                     // List of rounds in bracket
       [                   // First round in this bracket
-        [14, 4],
-        [15, 3],
-        [12, 6],
-        [8, 10]
+        [14, 4 ],
+        [15, 3 ],
+        [12, 6 ],
+        [8,  10],
+        [14, 13],
+        [19, 8 ],
+        [15, 12],
+        [18,  9]
       ]
     ]
   ]
