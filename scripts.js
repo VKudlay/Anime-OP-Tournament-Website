@@ -304,20 +304,31 @@ var tourneyData1 = {
   "results": [            // List of brackets (single elimination, so only one bracket)
     [                     // List of rounds in bracket
       [                   // First round in this bracket
+        // Set 1
         [14, 4 ],
         [15, 3 ],
         [12, 6 ],
         [8,  10],
+        // Set 2
         [14, 13],
         [19, 8 ],
         [15, 12],
-        [18,  9],
+        [18, 9 ],
+        // Set 3
         [15, 12],
         [13, 14],
         [15, 12],
         [16, 11],
         [10, 17],
-        [24, 3]
+        [24, 3 ],
+        // Set 4
+        [15, 8 ],
+        [15, 8 ],
+        [16, 7 ],
+        [13, 10],
+        [17, 6 ],
+        [12, 11]
+        // Set 5
       ]
     ]
   ]
