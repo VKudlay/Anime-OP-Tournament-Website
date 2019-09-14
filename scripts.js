@@ -194,7 +194,7 @@ vidlinks = new Map([
   ["Piano no Mori OP 1", "https://www.youtube.com/watch?v=M8oyfP4XKeM"],
   ["Ping Pong The Animation OP 1", "https://www.youtube.com/watch?v=2v6iOVhw6mQ"],
   ["Pokemon OP 1", "https://www.youtube.com/watch?v=6xKWiCMKKJg"],
-  ["Pokemon xyz OP 1", "https://www.youtube.com/watch?v=CQuObfTx6Cg"],
+  ["Pokemon XYZ OP 1", "https://www.youtube.com/watch?v=CQuObfTx6Cg"],
   ["Pop team epic OP 1", "https://www.youtube.com/watch?v=TmrosfxGifQ"],
   ["Promised Neverland OP 1", "https://www.youtube.com/watch?v=1JoFsTDfd-8"],
   ["Psycho pass OP 1", "https://www.youtube.com/watch?v=WWBDuVCuiUQ"],
@@ -274,7 +274,7 @@ teams = [              // Matchups
   ["Dororo OP 1", "Hellsing OP 1"],
   ["Neon Genesis Evangelion op", "Nisemonogatari OP 3"],
   ["Demon Slayer OP 1", "Anohana OP 1"],
-  ["Pokemon xyz OP 1", "Trinity Seven OP 1"],
+  ["Pokemon XYZ OP 1", "Trinity Seven OP 1"],
   ["Death Parade OP 1", "Watamote OP 1"],
   ["Kill la Kill OP 2", "Lucky Star OP 1"],
   ["Steins;Gate 0 OP 1", "Akame Ga Kill OP 1"],
@@ -342,6 +342,17 @@ var tourneyData1 = {
         [ 8, 10],
         [10,  8],
         [17,  1]
+      ],
+      [ // ROUND 2
+        // Set 1
+        [11,  9],
+        [11,  9],
+        [ 3, 17],
+        [ 5, 15],
+        [14,  6],
+        [15,  5],
+        [ 3, 17],
+        [12,  8]
       ]
     ]
   ]
