@@ -59,8 +59,11 @@ main h1 {
   font-size: 1.2em !important;
 }
 
-#tourney-1 .round:nth-of-type(n+5) {
-  display: none;
+.tourneydiv .round:nth-of-type(n+5):nth-of-type(-n+6) {
+  display: none !important;
+}
+.tourneydiv .round:nth-of-type(n+4) .connector {
+  display: none !important;
 }
 
 .bracket, .round {
