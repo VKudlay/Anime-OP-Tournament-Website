@@ -83,7 +83,7 @@ vidlinks = new Map([
   ["Elfen Lied OP 1", "https://www.youtube.com/watch?v=pKG3m4uTSyw"],
   ["Erased OP 1", "https://www.youtube.com/watch?v=Y9G20wV0KHE"],
   ["Eromanga Sensei OP 1", "https://www.youtube.com/watch?v=DeGw8-KwxM4"],
-  ["Fairy Tail OP 16", "https://www.youtube.com/watch?v=WKAwCfn6RhU"],
+  ["Fairy Tail OP 16", "https://youtu.be/EXIxL6w5Yuk"],
   ["Fairy Tail OP 22", "https://www.youtube.com/watch?v=e-7uuV7B7mo"],
   ["Fate/Apocrypha OP 1", "https://www.youtube.com/watch?v=3nLH06ftkL0"],
   ["Fate/Stay Night UBW OP 2", "https://www.youtube.com/watch?v=-yvMqox7c6A"],
@@ -195,7 +195,7 @@ vidlinks = new Map([
   ["Ping Pong The Animation OP 1", "https://www.youtube.com/watch?v=2v6iOVhw6mQ"],
   ["Pokemon OP 1", "https://www.youtube.com/watch?v=6xKWiCMKKJg"],
   ["Pokemon XYZ OP 1", "https://www.youtube.com/watch?v=CQuObfTx6Cg"],
-  ["Pop team epic OP 1", "https://www.youtube.com/watch?v=TmrosfxGifQ"],
+  ["Pop Team Epic OP 1", "https://www.youtube.com/watch?v=TmrosfxGifQ"],
   ["Promised Neverland OP 1", "https://www.youtube.com/watch?v=1JoFsTDfd-8"],
   ["Psycho pass OP 1", "https://www.youtube.com/watch?v=WWBDuVCuiUQ"],
   ["Psycho pass OP 2", "https://www.youtube.com/watch?v=irqFRZqptWg"],
@@ -229,11 +229,11 @@ vidlinks = new Map([
   ["Tales of Zestiria The X OP 1", "https://www.youtube.com/watch?v=9vjsu3Lb9Co"],
   ["Tamako Love Story op", "https://www.youtube.com/watch?v=kABrOnLH5LA"],
   ["The Devil Is A Part-Timer OP 1", "https://www.youtube.com/watch?v=oe9gQt-x_BE"],
-  ["The irregular at magic high school OP 1", "https://www.youtube.com/watch?v=68lDew_mVz4"],
-  ["The irregular at magic high school OP 2 ", "https://www.youtube.com/watch?v=b6pNl7qejNw"],
+  ["The Irregular at Magic High School OP 1", "https://www.youtube.com/watch?v=68lDew_mVz4"],
+  ["The Irregular at Magic High School OP 2 ", "https://www.youtube.com/watch?v=b6pNl7qejNw"],
   ["The World God Only Knows OP 1", "https://www.youtube.com/watch?v=8muiDhiRb_M"],
   ["To Be Heroine OP 1", "https://www.youtube.com/watch?v=N9GA4TxlEy0"],
-  ["Tokyo Ghoul RE OP 1", "https://www.youtube.com/watch?v=ccBOtOcE-gU"],
+  ["Tokyo Ghoul RE OP 1", "https://drive.google.com/file/d/1UiFD6BzCrdZSFftrvl3jtUHlHCz3sCuy/view?usp=sharing"],
   ["Tokyo Ghoul RE OP 2", "https://www.youtube.com/watch?v=ZCCG3oQKu90"],
   ["Tokyo Ghoul S1 OP 1", "https://youtu.be/7aMOurgDB-o?t=6"],
   ["Toradora OP 1", "https://www.youtube.com/watch?v=Y3Xmzu0OtS8"],
@@ -258,7 +258,7 @@ vidlinks = new Map([
   ["Zombieland Saga OP 1", "https://www.youtube.com/watch?v=W22SxsxXTWc"]
 ]);
 
-teams = [              // Matchups
+teams1 = [              // Matchups
   ["Gurren Lagann OP 1", "Baka And Test OP 1"],
   ["Promised Neverland OP 1", "Hunter X Hunter New OP 1"],
   ["My Hero Aca S2 OP 1", "Day Break Illusion OP 1"],
@@ -293,14 +293,54 @@ teams = [              // Matchups
   ["Kimi no Na Wa OP", "Rage of Bahamut Virgin soul OP 2"]
 ]
 
-for (var i = 0; i < teams.length; i++) {
+teams2 = [              // Matchups
+  ["Dragon Ball Super OP 2", "One Piece OP 6"],
+  ["Caligula OP 1", "Full Metal Panic! IV OP 1"],
+  ["Naruto Shippuden OP 3", "Higurashi No Naku Koro Ni OP 1"],
+  ["Shakugan no Shana OP 3", "Black Butler Book of Circus OP 1"],
+  ["Goblin Slayer OP 1", "To Be Heroine OP 1"],
+  ["Kuroko no Basuke 3 OP 1", "Code Geass R2 OP 1"],
+  ["Kekkai Sensen OP 1", "Elfen Lied OP 1"],
+  ["Attack On Titan S2 OP 1", "Fairy Tail OP 16"],
+  ["Your Lie in April OP 1", "Log Horizon OP 1"],
+  ["Dimension W OP 1", "Tokyo Ghoul RE OP 1"],
+  ["Noragami OP 1", "Bakemonogatari OP 1"],
+  ["Fullmetal Alchemist B OP 1", "Welcome to the NHK OP 1"],
+  ["Granbelm OP 1", "Fullmetal Alchemist B OP 5"],
+  ["Cop Craft OP 1", "Owarimonogatari OP 1"],
+  ["Hyouka OP 1", "High school dxd hero OP 1"],
+  ["Tokyo Ghoul RE OP 2", "Drifters OP 1"],
+  ["11 Eyes OP 1", "Erased OP 1"],
+  ["Land of the Lustrous OP 1", "A Certain Magical Index II OP 1"],
+  ["Blue Exorcist S2 OP 1", "One Piece OP 21"],
+  ["Code Geass OP 1", "Gantz OP"],
+  ["Re:Creators OP 1", "Piano no Mori OP 1"],
+  ["Violet Evergarden OP 1", "Blue Exorcist OP 2"],
+  ["The Irregular at Magic High School OP 1", "Black Lagoon OP 1"],
+  ["Divine Gate", "The Irregular at Magic High School OP 2 "],
+  ["Re:Zero OP 2", "Clannad After Story OP 1"],
+  ["Death Note OP 1", "Blend S OP 1"],
+  ["SAO Alicization OP 1", "Hakata Tonkatsu Ramens OP 1"],
+  ["Hanebado! OP 1", "The World God Only Knows OP 1"],
+  ["Overlord S1 OP", "Dirty Pair OP 1"],
+  ["Mob Psycho OP 1", "Toradora OP 1"],
+  ["Pop Team Epic OP 1", "Outlaw Star OP 1"],
+  ["Magi OP 1", "D. Gray Man OP 2"]
+]
+
+for (var i = 0; i < teams1.length; i++) {
   for (var j = 0; j < 2; j++) {
-    teams[i][j] = "<a href='" + vidlinks.get(teams[i][j]) + "' target='_blank'>" + teams[i][j] + "</a>"
+    teams1[i][j] = "<a href='" + vidlinks.get(teams1[i][j]) + "' target='_blank'>" + teams1[i][j] + "</a>"
+  }
+}
+for (var i = 0; i < teams2.length; i++) {
+  for (var j = 0; j < 2; j++) {
+    teams2[i][j] = "<a href='" + vidlinks.get(teams2[i][j]) + "' target='_blank'>" + teams2[i][j] + "</a>"
   }
 }
 
 var tourneyData1 = {
-  "teams":   teams,
+  "teams":   teams1,
   "results": [            // List of brackets (single elimination, so only one bracket)
     [                     // List of rounds in bracket
       [                   // First round in this bracket
@@ -362,6 +402,28 @@ var tourneyData1 = {
         [ 8,  9],
         [10,  7],
         [ 4, 13]
+      ],
+      [ // ROUND 3
+        // Set 1
+        [13,  8],
+        [10, 11],
+        [ 5, 16],
+        [17,  4],
+        [12,  9],
+        [ 6, 15],
+        [13,  8],
+        [ 3, 18]
+      ]
+    ]
+  ]
+}
+
+var tourneyData2 = {
+  "teams":   teams2,
+  "results": [            // List of brackets (single elimination, so only one bracket)
+    [                     // List of rounds in bracket
+      [                   // First round in this bracket
+        // Set 1
       ]
     ]
   ]
@@ -370,6 +432,14 @@ var tourneyData1 = {
 $(function() {
     $('#tourney-1').bracket({
       init: tourneyData1,
+      teamWidth: Math.max(200, screen.width/6)
+    })
+  }
+)
+
+$(function() {
+    $('#tourney-2').bracket({
+      init: tourneyData2,
       teamWidth: Math.max(200, screen.width/6)
     })
   }
