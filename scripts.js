@@ -424,6 +424,12 @@ var tourneyData2 = {
     [                     // List of rounds in bracket
       [                   // First round in this bracket
         // Set 1
+        [ 7,  4],
+        [ 8,  3],
+        [ 3,  8],
+        [ 5,  6],
+        [ 7,  4],
+        [ 4,  7]
       ]
     ]
   ]
