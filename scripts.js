@@ -179,7 +179,7 @@ vidlinks = new Map([
   ["No Game No Life OP 1", "https://www.youtube.com/watch?v=NQCax11Q0Bs"],
   ["Noragami Aragoto OP 1", "https://youtu.be/3oFTHxkOzjE?t=7"],
   ["Noragami OP 1", "https://www.youtube.com/watch?v=inq4vsIn6zA"],
-  ["One Piece OP 21", "https://www.youtube.com/watch?v=t7xHamn5inQ"],
+  ["One Piece OP 22", "https://youtu.be/necK0u6i5pA"],
   ["One Piece OP 6", "https://www.youtube.com/watch?v=AL8m1Uktt4c"],
   ["One Punch Man OP 1", "https://www.youtube.com/watch?v=atxYe-nOa9w"],
   ["Ouran High School Host Club OP 1", "https://www.youtube.com/watch?v=QXSBh4gtQ7g"],
@@ -430,13 +430,20 @@ var tourneyData2 = {
         [ 5,  6],
         [ 7,  4],
         [ 4,  7],
-        // Set 1
+        // Set 2
         [ 8,  5],
         [13,  0],
         [10,  3],
         [ 7,  6],
         [10,  3],
-        [10,  3]
+        [10,  3],
+        // Set 3
+        [ 1, 10],
+        [ 9,  2],
+        [ 9,  2],
+        [ 4,  7],
+        [ 2,  9],
+        [ 5,  6],
       ]
     ]
   ]
