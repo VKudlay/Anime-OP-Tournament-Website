@@ -59,27 +59,11 @@ main h1 {
   font-size: 1.2em !important;
 }
 
-.team:not(.win):not(.lose):not(.highlight):not(.na) {
-  background-color: dodgerblue !important;
+.tourneydiv .round:nth-of-type(n+5):nth-of-type(-n+6) {
+  display: none !important;
 }
-
-
-.team.win {
-  background-color: lightblue !important;
-  color: grey;
-}
-.team.lose {
-  background-color: red !important;
-}
-
-#tourney-1 .round:nth-of-type(1) .match:nth-of-type(n+0):nth-of-type(-n+4) {
-  background-color: lightblue !important;
-  border: 4px solid lightblue;
-  padding: 0 2px;
-}
-
-#tourney-1 .round:nth-of-type(n+5) {
-  display: none;
+.tourneydiv .round:nth-of-type(n+4) .connector {
+  display: none !important;
 }
 
 .bracket, .round {
