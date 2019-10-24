@@ -546,6 +546,14 @@ var tourneyData3 = {
 }
 
 $(function() {
+    $('#tourney-3').bracket({
+      init: tourneyData3,
+      teamWidth: Math.max(200, screen.width/6)
+    })
+  }
+)
+
+$(function() {
     $('#tourney-1').bracket({
       init: tourneyData1,
       teamWidth: Math.max(200, screen.width/6)
@@ -556,14 +564,6 @@ $(function() {
 $(function() {
     $('#tourney-2').bracket({
       init: tourneyData2,
-      teamWidth: Math.max(200, screen.width/6)
-    })
-  }
-)
-
-$(function() {
-    $('#tourney-3').bracket({
-      init: tourneyData3,
       teamWidth: Math.max(200, screen.width/6)
     })
   }
