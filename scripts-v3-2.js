@@ -339,7 +339,7 @@ teams3 = [              // Matchups
     ["Selector Spread Wixoss", "Spice and Wolf OP 1"],
     ["Black Butler OP 1", "Haiyore Nyaruko San OP 2"],
     ["Guilty Crown OP 1", "Another OP"],
-    ["Future Diary OP 1", "Mobile Suit Gundam Iron Blooded Orphans OP 2"],
+    ["Future Diary OP 1", "MSG Iron Blooded Orphans OP 2"],
     ["March Comes In Like A Lion OP 4", "Kore Wa Zombie Desu Ka OP 1"],
     ["Attack On Titan OP 1", "Carnival Phantasm OP 1"],
     ["Koi To Uso OP 1", "Gosick OP 1"],
@@ -532,6 +532,16 @@ var tourneyData2 = {
 var tourneyData3 = {
     "teams":   teams3,
     "results": [            // List of brackets (single elimination, so only one bracket)
+        [
+            [
+                [ 6,  1],
+                [ 4,  3],
+                [ 3,  4],
+                [ 5,  2],
+                [ 5,  2],
+                [ 5,  2]
+            ]
+        ]
     ]
 }
 
