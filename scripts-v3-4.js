@@ -534,20 +534,21 @@ var tourneyData3 = {
     "results": [            // List of brackets (single elimination, so only one bracket)
         [
             [
+                // Set 1
                 [ 6,  1],
                 [ 4,  3],
                 [ 3,  4],
                 [ 5,  2],
                 [ 5,  2],
                 [ 5,  2],
-
+                // Set 2
                 [ 6,  1],
                 [ 1,  6],
                 [ 3,  4],
                 [ 4,  3],
                 [ 5,  2],
                 [ 5,  2],
-
+                // Set 3
                 [ 7,  0],
                 [ 4,  3],
                 [ 3,  4],
