@@ -88,7 +88,7 @@ vidlinks = new Map([
     ["Fairy Tail OP 22", "https://www.youtube.com/watch?v=e-7uuV7B7mo"],
     ["Fate/Apocrypha OP 1", "https://www.youtube.com/watch?v=3nLH06ftkL0"],
     ["Fate/Stay Night UBW OP 2", "https://www.youtube.com/watch?v=-yvMqox7c6A"],
-    ["Fate/Zero OP 2", "https://www.youtube.com/watch?v=r1JJUk7Cl7A"],
+    ["Fate/Zero OP 2", "https://youtu.be/O5uYQF4R-jo"],
     ["Fire Force OP 1", "https://www.youtube.com/watch?v=NjchjvO8Zks"],
     ["Food Wars OP 1", "https://www.youtube.com/watch?v=vV3l_1j8pPE"],
     ["Free OP 1", "https://www.youtube.com/watch?v=oveSIRPMJYA"],
@@ -554,7 +554,12 @@ var tourneyData3 = {
                 [ 3,  4],
                 [ 3,  4],
                 [ 2,  5],
-                [ 4,  3]
+                [ 4,  3],
+                // Set 4
+                [ 8,  1],
+                [ 7,  2],
+                [ 8,  1], 
+                [ 5,  4]
             ]
         ]
     ]
