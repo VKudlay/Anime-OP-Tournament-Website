@@ -61,7 +61,7 @@ vidlinks = new Map([
     ["Cowboy Bebop OP 1", "https://www.youtube.com/watch?v=NRI_8PUXx2A"],
     ["D. Gray Man OP 1", "https://www.youtube.com/watch?v=iSGCKUU044A"],
     ["D. Gray Man OP 2", "https://www.youtube.com/watch?v=NcGqD2Q4Y_I"],
-    ["Danmachi OP 1", "https://www.youtube.com/watch?v=0H_RCGEcjhs&t"],
+    ["DanMachi OP 1", "https://www.youtube.com/watch?v=0H_RCGEcjhs&t"],
     ["Darker Than Black OP 1", "https://www.youtube.com/watch?v=MYPmYSHWgMQ"],
     ["Darling in the Franxx OP 1", "https://www.youtube.com/watch?v=A4kLcDWBYcQ"],
     ["Day Break Illusion OP 1", "https://youtu.be/juRsXaqOTd0?t=1"],
@@ -119,7 +119,7 @@ vidlinks = new Map([
     ["Hanebado! OP 1", "https://www.youtube.com/watch?v=EwWG_wPuT6c"],
     ["Hellsing OP 1", "https://www.youtube.com/watch?v=hMNJwUUHMxc"],
     ["Hibike! Euphonium OP 1", "https://www.youtube.com/watch?v=RZqLaAORteg"],
-    ["High school dxd hero OP 1", "https://www.youtube.com/watch?v=wrNvWEEHzTk&t=11s"],
+    ["High School DxD Hero OP 1", "https://www.youtube.com/watch?v=wrNvWEEHzTk&t=11s"],
     ["Highschool of the Dead OP 1", "https://www.youtube.com/watch?v=TQwQMeb-44g"],
     ["Higurashi No Naku Koro Ni OP 1", "https://www.youtube.com/watch?v=XgWkIrFQQE0"],
     ["Hinamatsuri OP 1", "https://www.youtube.com/watch?v=tJVAkofTFbI"],
@@ -181,7 +181,7 @@ vidlinks = new Map([
     ["Noragami OP 1", "https://www.youtube.com/watch?v=inq4vsIn6zA"],
     ["One Piece OP 22", "https://youtu.be/necK0u6i5pA"],
     ["One Piece OP 6", "https://www.youtube.com/watch?v=AL8m1Uktt4c"],
-    ["One Punch Man OP 1", "https://www.youtube.com/watch?v=atxYe-nOa9w"],
+    ["One Punch Man OP 1", "https://youtu.be/d-sMiaE4aW4"],
     ["Ouran High School Host Club OP 1", "https://www.youtube.com/watch?v=QXSBh4gtQ7g"],
     ["Outlaw Star OP 1", "https://www.youtube.com/watch?v=3LucBfR1w6Y"],
     ["Overlord S1 OP", "https://www.youtube.com/watch?v=KOWcj7XKnfQ"],
@@ -308,7 +308,7 @@ teams2 = [              // Matchups
     ["Fullmetal Alchemist B OP 1", "Welcome to the NHK OP 1"],
     ["Granbelm OP 1", "Fullmetal Alchemist B OP 5"],
     ["Cop Craft OP 1", "Owarimonogatari OP 1"],
-    ["Hyouka OP 1", "High school dxd hero OP 1"],
+    ["Hyouka OP 1", "High School DxD Hero OP 1"],
     ["Tokyo Ghoul RE OP 2", "Drifters OP 1"],
     ["11 Eyes OP 1", "Erased OP 1"],
     ["Land of the Lustrous OP 1", "A Certain Magical Index II OP 1"],
@@ -357,7 +357,7 @@ teams3 = [              // Matchups
     ["Guilty Crown OP 2", "Ghost In The Shell SAC OP 1"],
     ["Golden Kamuy OP 2", "Gatchaman Crowds OP 1"],
     ["Inu X Boku SS OP 1", "Absolute duo OP 1"],
-    ["One Punch Man OP 1", "Danmachi OP 1"],
+    ["One Punch Man OP 1", "DanMachi OP 1"],
     ["K-ON! OP 1", "Akame Ga Kill OP 2"],
     ["Fate/Zero OP 2", "Umineko No Naku Koro Ni OP 3"],
     ["Madoka Magica op 1", "Gate OP 2"]
@@ -559,6 +559,11 @@ var tourneyData3 = {
                 [ 8,  1],
                 [ 7,  2],
                 [ 8,  1], 
+                [ 5,  4],
+                // Set 5
+                [ 5,  4],
+                [ 3,  6],
+                [ 5,  4],
                 [ 5,  4]
             ]
         ]
