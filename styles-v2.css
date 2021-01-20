@@ -46,7 +46,7 @@ main h1 {
   width: max-content !important;
 }
 .tourneys {
-  padding: 20px;
+  padding: 20px 20px 50px 20px;
   background-color: grey;
   border: 2px solid #444;
   position: relative;
