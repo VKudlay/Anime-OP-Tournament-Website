@@ -21,7 +21,7 @@ vidlinks = new Map([
     ["Assassination Classroom OP 1", "https://www.youtube.com/watch?v=KS9UfmCFn_Y"],
     ["Assassination Classroom S2 OP 2", "https://www.youtube.com/watch?v=c_J7ybxenOQ"],
     ["Asterisk War OP 1", "https://www.youtube.com/watch?v=vZBUJxsU5U4"],
-    ["Attack On Titan OP 1", "https://www.youtube.com/watch?v=XMXgHfHxKVM"],
+    ["Attack On Titan OP 1", "https://youtu.be/8OkpRK2_gVs"],
     ["Attack On Titan S2 OP 1", "https://www.youtube.com/watch?v=LKP-vZvjbh8"],
     ["Attack On Titan S3 OP 1", "https://www.youtube.com/watch?v=swwUoExDIng"],
     ["Baccano! OP 1", "https://www.youtube.com/watch?v=OOZ1hsb8smQ"],
@@ -218,7 +218,7 @@ vidlinks = new Map([
     ["Seraph of the End OP 1", "https://youtu.be/aNgT6MxOURQ?t=7"],
     ["Shakugan no Shana OP 3", "https://www.youtube.com/watch?v=-jdkQYTqh9U"],
     ["Shiki OP 1", "https://www.youtube.com/watch?v=Iw5u3QVdHjA"],
-    ["Slime OP 1", "https://www.youtube.com/watch?v=u67olZLcDPc"],
+    ["Slime OP 1", "https://youtu.be/GhGTc6p8sg0"],
     ["Soul Eater OP 1", "https://www.youtube.com/watch?v=zzJ8U8OtEsE"],
     ["Soul Eater OP 2", "https://www.youtube.com/watch?v=-eYK3YP524A"],
     ["Space Brothers OP 7", "https://www.youtube.com/watch?v=uG608A_RYl8"],
@@ -575,7 +575,11 @@ var tourneyData3 = {
             ],
             [
                 [ 4,  9],
-                [10,  3]
+                [10,  3],
+                [ 8,  3],
+                [ 6,  5],
+                [ 5,  6],
+                [ 5,  6]
             ]
         ]
     ]
