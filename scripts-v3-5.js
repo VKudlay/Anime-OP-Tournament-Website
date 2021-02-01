@@ -156,7 +156,7 @@ vidlinks = new Map([
     ["Log Horizon OP 1", "https://www.youtube.com/watch?v=CZ73Qv-RQNg"],
     ["Lucky Star OP 1", "https://www.youtube.com/watch?v=03x0bU2w9HI"],
     ["Made In Abyss OP 1", "https://www.youtube.com/watch?v=e91G8m9uM_0"],
-    ["Madoka Magica op 1", "https://www.youtube.com/watch?v=OrgpX-_bFqM"],
+    ["Madoka Magica OP 1", "https://www.youtube.com/watch?v=OrgpX-_bFqM"],
     ["Magi OP 1", "https://www.youtube.com/watch?v=M8JuOhB7-U0"],
     ["Magic Kaito 1412 OP 2", "https://www.youtube.com/watch?v=Q9esf5COzck"],
     ["March Comes In Like A Lion OP 4", "https://www.youtube.com/watch?v=5htUWLGqlnQ"],
@@ -172,7 +172,7 @@ vidlinks = new Map([
     ["Naruto OP 4", "https://www.youtube.com/watch?v=xjBTNbEXbAA"],
     ["Naruto Shippuden OP 16", "https://www.youtube.com/watch?v=otxA7fpPMPc"],
     ["Naruto Shippuden OP 3", "https://www.youtube.com/watch?v=2upuBiEiXDk"],
-    ["Neon Genesis Evangelion op", "https://www.youtube.com/watch?v=t-QSmNReDyI"],
+    ["Neon Genesis Evangelion OP", "https://www.youtube.com/watch?v=t-QSmNReDyI"],
     ["Nichijou OP 1", "https://www.youtube.com/watch?v=qUk1ZoCGqsA"],
     ["Nisekoi OP 1", "https://www.youtube.com/watch?v=ikkBnTZxGbE"],
     ["Nisemonogatari OP 3", "https://www.youtube.com/watch?v=Y8SwZJAUiW4"],
@@ -212,7 +212,7 @@ vidlinks = new Map([
     ["Sailor Moon OP 1", "https://www.youtube.com/watch?v=5txHGxJRwtQ"],
     ["Samurai Champloo", "https://www.youtube.com/watch?v=Eq6EYcpWB_c"],
     ["SAO Alicization OP 1", "https://www.youtube.com/watch?v=i_Y-GwM6o5M"],
-    ["SAO II OP 1", "https://youtu.be/8nF8PBl1KsM"],
+    ["SAO II OP 1", "https://youtu.be/frw21EeOrV0"],
     ["SAO OP 1", "https://www.youtube.com/watch?v=xiz0utrFdHU"],
     ["Selector Spread Wixoss", "https://www.youtube.com/watch?v=T3TFuFcFfec"],
     ["Seraph of the End OP 1", "https://youtu.be/aNgT6MxOURQ?t=7"],
@@ -227,7 +227,7 @@ vidlinks = new Map([
     ["Steins:Gate OP 1", "https://www.youtube.com/watch?v=dd7BILZcYAY"],
     ["Taboo Tattoo OP 1", "https://www.youtube.com/watch?v=2y5bvEdkAj8"],
     ["Tales of Zestiria The X OP 1", "https://www.youtube.com/watch?v=9vjsu3Lb9Co"],
-    ["Tamako Love Story op", "https://www.youtube.com/watch?v=kABrOnLH5LA"],
+    ["Tamako Love Story OP", "https://www.youtube.com/watch?v=kABrOnLH5LA"],
     ["The Devil Is A Part-Timer OP 1", "https://www.youtube.com/watch?v=oe9gQt-x_BE"],
     ["The Irregular at Magic High School OP 1", "https://www.youtube.com/watch?v=68lDew_mVz4"],
     ["The Irregular at Magic High School OP 2 ", "https://www.youtube.com/watch?v=b6pNl7qejNw"],
@@ -272,7 +272,7 @@ teams1 = [              // Matchups
     ["Black Clover OP 3", "Megalo Box OP 1"],
     ["Fairy Tail OP 22", "Food Wars OP 1"],
     ["Dororo OP 1", "Hellsing OP 1"],
-    ["Neon Genesis Evangelion op", "Nisemonogatari OP 3"],
+    ["Neon Genesis Evangelion OP", "Nisemonogatari OP 3"],
     ["Demon Slayer OP 1", "Anohana OP 1"],
     ["Pokemon XYZ OP 1", "Trinity Seven OP 1"],
     ["Death Parade OP 1", "Watamote OP 1"],
@@ -360,7 +360,7 @@ teams3 = [              // Matchups
     ["One Punch Man OP 1", "DanMachi OP 1"],
     ["K-ON! OP 1", "Akame Ga Kill OP 2"],
     ["Fate/Zero OP 2", "Umineko No Naku Koro Ni OP 3"],
-    ["Madoka Magica op 1", "Gate OP 2"]
+    ["Madoka Magica OP 1", "Gate OP 2"]
 ]
 
 for (var i = 0; i < teams1.length; i++) {
@@ -580,11 +580,16 @@ var tourneyData3 = {
                 [ 6,  5],
                 [ 5,  6],
                 [ 5,  6],         
-                // Set 3
+                // Set
                 [ 9,  2],
                 [ 5,  6],
                 [ 3,  8],
-                [ 6,  5]
+                [ 6,  5],
+                // Set
+                [ 8,  5],
+                [ 7,  6],
+                [ 7,  6],
+                [ 3, 10]
             ]
         ]
     ]
