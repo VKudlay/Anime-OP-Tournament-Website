@@ -136,7 +136,7 @@ vidlinks = new Map([
     ["Juuni Taisen OP", "https://www.youtube.com/watch?v=kR50SHtj-Og"],
     ["K-ON! OP 1", "https://www.youtube.com/watch?v=m7_-RBl0lfY"],
     ["Kabeneri of the Iron Fortress OP 1", "https://www.youtube.com/watch?v=0w-9u4SxWwc"],
-    ["Kaguya-Sama: Love is War OP 1", "https://www.youtube.com/watch?v=gChTHeHp3wQ"],
+    ["Kaguya-Sama: Love is War OP 1", "https://youtu.be/0CYo0QH6dyg"],
     ["Kakegurui OP 1", "https://www.youtube.com/watch?v=UOAC6GYYY-4"],
     ["Keijo!!! OP 1", "https://www.youtube.com/watch?v=Cq9cM0D_fZU"],
     ["Kekkai Sensen OP 1", "https://youtu.be/4J8jcI0WtzM?t=6"],
@@ -363,11 +363,47 @@ teams3 = [              // Matchups
     ["Madoka Magica OP 1", "Gate OP 2"]
 ]
 
+teams4 = [              // Matchups
+    ["Kaguya-Sama: Love is War OP 1", "Ping Pong The Animation OP 1"],
+    ["D. Gray Man OP 1", "The Devil Is A Part-Timer OP 1"],
+    ["Yuri On Ice OP 1", "Gintama OP 1"],
+    ["Psycho pass OP 2", "Yamada-kun to 7-Nin Majo OP 1"],
+    ["Robotics;Notes", "Arlan Senki OP 3"],
+    ["Rising of the Shield Hero OP 1", "Assassination Classroom OP 1"],
+    ["Parasyte OP 1", "Barakamon OP"],
+    ["My Hero Aca S1 OP", "Riddle Story Of Devil OP 1"],
+    ["Soul Eater OP 1", "Alderamin on the sky OP 1"],
+    ["SAO OP 1", "Kuroko no Basuke OP 1"],
+    ["Konosuba OP 2", "Quan Zhi Gao Shou"],
+    ["Naruto Shippuden OP 16", "Tamako Love Story op"],
+    ["Vinland Saga", "Re:Hamatora OP 1"],
+    ["Durarara OP 1", "Mononoke OP 1"],
+    ["Darker Than Black OP 1", "Dr. Stone OP 1"],
+    ["Laid-Back Camp OP 1", "Saga of Tanya The Evil OP 1"],
+    ["Tokyo Ghoul S1 OP 1", "Yugioh 5Ds english OP 1"],
+    ["Magic Kaito 1412 OP 2", "Conception OP 1"],
+    ["Cowboy Bebop OP 1", "Ef: A Tale Of Melodies OP"],
+    ["Fate/Apocrypha OP 1", "Juuni Taisen OP"],
+    ["Baccano! OP 1", "Berserk 2016 OP 1"],
+    ["7 Deadly Sins S2 OP 2", "Kabeneri of the Iron Fortress OP 1"],
+    ["Psycho pass OP 1", "Darling in the Franxx OP 1"],
+    ["Black Clover OP 4", "Inuyashiki OP"],
+    ["Fire Force OP 1", "Accel World OP 2"],
+    ["Kokkoku OP", "Bunny Girl Senpai OP 1"],
+    ["Fate/Stay Night UBW OP 2", "Initial D final stage OP 1"],
+    ["Gatchaman Crowds OP 2", "Bleach OP 13"],
+    ["Bungou Stray Dogs OP 1", "Cells at work OP 1"],
+    ["Assassination Classroom S2 OP 2", "Made In Abyss OP 1"],
+    ["Inuyasha OP 3", "BTOOOM OP 1"],
+    ["Re:Zero OP 1", "Nisekoi OP 1"]
+]
+
 for (var i = 0; i < teams1.length; i++) {
   for (var j = 0; j < 2; j++) {
     teams1[i][j] = "<a href='" + vidlinks.get(teams1[i][j]) + "' target='_blank'>" + teams1[i][j] + "</a>"
     teams2[i][j] = "<a href='" + vidlinks.get(teams2[i][j]) + "' target='_blank'>" + teams2[i][j] + "</a>"
     teams3[i][j] = "<a href='" + vidlinks.get(teams3[i][j]) + "' target='_blank'>" + teams3[i][j] + "</a>"
+    teams4[i][j] = "<a href='" + vidlinks.get(teams4[i][j]) + "' target='_blank'>" + teams4[i][j] + "</a>"
   }
 }
 
@@ -597,19 +633,27 @@ var tourneyData3 = {
             [
                 [ 7,  8],
                 [ 7,  8],
-                [ 8,  7]
+                [ 8,  7],
+                [10,  3],
+                [ 7,  6],
+                [ 6,  7],
+                [ 6,  7],
+                [ 6,  7]
             ]
         ]
     ]
 }
 
-$(function() {
-    $('#tourney-3').bracket({
-      init: tourneyData3,
-      teamWidth: Math.max(200, screen.width/6)
-    })
-  }
-)
+var tourneyData4 = {
+    "teams":   teams4,
+    "results": [            // List of brackets (single elimination, so only one bracket)
+        [
+            [
+                []
+            ]
+        ]
+    ]
+}
 
 $(function() {
     $('#tourney-1').bracket({
@@ -622,6 +666,22 @@ $(function() {
 $(function() {
     $('#tourney-2').bracket({
       init: tourneyData2,
+      teamWidth: Math.max(200, screen.width/6)
+    })
+  }
+)
+
+$(function() {
+    $('#tourney-3').bracket({
+      init: tourneyData3,
+      teamWidth: Math.max(200, screen.width/6)
+    })
+  }
+)
+
+$(function() {
+    $('#tourney-4').bracket({
+      init: tourneyData4,
       teamWidth: Math.max(200, screen.width/6)
     })
   }
