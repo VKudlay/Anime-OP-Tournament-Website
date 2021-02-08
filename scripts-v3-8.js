@@ -27,7 +27,7 @@ vidlinks = new Map([
     ["Baccano! OP 1", "https://www.youtube.com/watch?v=OOZ1hsb8smQ"],
     ["Baka And Test OP 1", "https://www.youtube.com/watch?v=CXW9KqRVa7E"],
     ["Bakemonogatari OP 1", "https://www.youtube.com/watch?v=z-caezFDfTs"],
-    ["Barakamon OP ", "https://www.youtube.com/watch?v=NM8y4NLBWkw"],
+    ["Barakamon OP", "https://www.youtube.com/watch?v=NM8y4NLBWkw"],
     ["Berserk 2016 OP 1", "https://www.youtube.com/watch?v=q2SWV5xxtcQ"],
     ["Beyond the Boundary", "https://www.youtube.com/watch?v=v2qLnyAurIY"],
     ["Black Butler Book of Circus OP 1", "https://youtu.be/M22jx3PNxr0?t=5"],
@@ -407,6 +407,20 @@ for (var i = 0; i < teams1.length; i++) {
   }
 }
 
+var tourneyData4 = {
+    "teams":   teams4,
+    "results": [            // List of brackets (single elimination, so only one bracket)
+        [
+            [
+                [10, 0 ],
+                [ 7, 3 ],
+                [10, 0 ],
+                [ 4, 6 ]
+            ]
+        ]
+    ]
+}
+
 var tourneyData1 = {
     "teams":   teams1,
     "results": [            // List of brackets (single elimination, so only one bracket)
@@ -639,17 +653,6 @@ var tourneyData3 = {
                 [ 6,  7],
                 [ 6,  7],
                 [ 6,  7]
-            ]
-        ]
-    ]
-}
-
-var tourneyData4 = {
-    "teams":   teams4,
-    "results": [            // List of brackets (single elimination, so only one bracket)
-        [
-            [
-                []
             ]
         ]
     ]
