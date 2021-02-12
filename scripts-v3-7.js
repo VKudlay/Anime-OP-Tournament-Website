@@ -9,7 +9,7 @@ vidlinks = new Map([
     ["AICO Incarnation OP 1", "https://www.youtube.com/watch?v=oq9fFLVSroA"],
     ["Akame Ga Kill OP 1", "https://www.youtube.com/watch?v=mJz8F-hHpnM"],
     ["Akame Ga Kill OP 2", "https://www.youtube.com/watch?v=v7A_wIGklDg"],
-    ["Alderamin on the sky OP 1", "https://www.youtube.com/watch?v=kOG6Fd_xyxg"],
+    ["Alderamin On The Sky OP 1", "https://www.youtube.com/watch?v=kOG6Fd_xyxg"],
     ["Aldnoah.Zero OP 1", "https://www.youtube.com/watch?v=mi2YE1-yeYs"],
     ["Amnesia OP 1", "https://www.youtube.com/watch?v=Zx7O4hhsI1M"],
     ["Ancient Magus Bride OP 1", "https://www.youtube.com/watch?v=KuZbmLLv1vM"],
@@ -199,7 +199,7 @@ vidlinks = new Map([
     ["Promised Neverland OP 1", "https://www.youtube.com/watch?v=1JoFsTDfd-8"],
     ["Psycho pass OP 1", "https://www.youtube.com/watch?v=WWBDuVCuiUQ"],
     ["Psycho pass OP 2", "https://www.youtube.com/watch?v=irqFRZqptWg"],
-    ["Quan Zhi Gao Shou", "https://www.youtube.com/watch?v=RgmPcvK7nBA"],
+    ["Quan Zhi Gao Shou OP", "https://www.youtube.com/watch?v=RgmPcvK7nBA"],
     ["Rage of Bahamut Virgin soul OP 2", "https://www.youtube.com/watch?v=YOLE_WCYKZQ"],
     ["Re:Creators OP 1", "https://www.youtube.com/watch?v=MEEVGqvvXbI"],
     ["Re:Hamatora OP 1", "https://www.youtube.com/watch?v=f74_M9-o9do"],
@@ -213,7 +213,7 @@ vidlinks = new Map([
     ["Samurai Champloo", "https://www.youtube.com/watch?v=Eq6EYcpWB_c"],
     ["SAO Alicization OP 1", "https://www.youtube.com/watch?v=i_Y-GwM6o5M"],
     ["SAO II OP 1", "https://youtu.be/frw21EeOrV0"],
-    ["SAO OP 1", "https://www.youtube.com/watch?v=xiz0utrFdHU"],
+    ["SAO OP 1", "https://youtu.be/vI8W_XYT29Q"],
     ["Selector Spread Wixoss", "https://www.youtube.com/watch?v=T3TFuFcFfec"],
     ["Seraph of the End OP 1", "https://youtu.be/aNgT6MxOURQ?t=7"],
     ["Shakugan no Shana OP 3", "https://www.youtube.com/watch?v=-jdkQYTqh9U"],
@@ -372,10 +372,10 @@ teams4 = [              // Matchups
     ["Rising of the Shield Hero OP 1", "Assassination Classroom OP 1"],
     ["Parasyte OP 1", "Barakamon OP"],
     ["My Hero Aca S1 OP", "Riddle Story Of Devil OP 1"],
-    ["Soul Eater OP 1", "Alderamin on the sky OP 1"],
+    ["Soul Eater OP 1", "Alderamin On The Sky OP 1"],
     ["SAO OP 1", "Kuroko no Basuke OP 1"],
-    ["Konosuba OP 2", "Quan Zhi Gao Shou"],
-    ["Naruto Shippuden OP 16", "Tamako Love Story op"],
+    ["Konosuba OP 2", "Quan Zhi Gao Shou OP"],
+    ["Naruto Shippuden OP 16", "Tamako Love Story OP"],
     ["Vinland Saga", "Re:Hamatora OP 1"],
     ["Durarara OP 1", "Mononoke OP 1"],
     ["Darker Than Black OP 1", "Dr. Stone OP 1"],
@@ -412,10 +412,14 @@ var tourneyData4 = {
     "results": [            // List of brackets (single elimination, so only one bracket)
         [
             [
-                [10, 0 ],
-                [ 7, 3 ],
-                [10, 0 ],
-                [ 4, 6 ]
+                [10,  0],
+                [ 7,  3],
+                [10,  0],
+                [ 4,  6],
+                [ 0,  7],
+                [ 3,  4],
+                [ 6,  1],
+                [ 6,  1]
             ]
         ]
     ]
