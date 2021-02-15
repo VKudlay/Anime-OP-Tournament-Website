@@ -244,7 +244,7 @@ vidlinks = new Map([
     ["Twin Star Exorcists OP 2", "https://www.youtube.com/watch?v=blD1-ekFg9U"],
     ["Umineko No Naku Koro Ni OP 3", "https://www.youtube.com/watch?v=rzbIDkR0ckU"],
     ["Vampire Knight Guilty OP", "https://www.youtube.com/watch?v=ErybW_0V5nk"],
-    ["Vinland Saga", "https://www.youtube.com/watch?v=xEVcTStgA4A"],
+    ["Vinland Saga", "https://youtu.be/7U7BDn-gU18"],
     ["Violet Evergarden OP 1", "https://www.youtube.com/watch?v=mtuwpsc8KKI"],
     ["Watamote OP 1", "https://www.youtube.com/watch?v=gZYq7rat9d4"],
     ["Welcome to the NHK OP 1", "https://www.youtube.com/watch?v=hHs5AjAvFoA"],
@@ -419,7 +419,11 @@ var tourneyData4 = {
                 [ 0,  7],
                 [ 3,  4],
                 [ 6,  1],
-                [ 6,  1]
+                [ 6,  1],
+                [ 8,  0],
+                [ 6,  2],
+                [ 5,  3],
+                [ 5,  3]
             ]
         ]
     ]
