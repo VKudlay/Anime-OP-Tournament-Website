@@ -251,9 +251,9 @@ vidlinks = new Map([
     ["Wotakoi OP 1", "https://www.youtube.com/watch?v=qHNUEyCb564"],
     ["Yamada-kun to 7-Nin Majo OP 1", "https://www.youtube.com/watch?v=QHFif7LRylw"],
     ["Your Lie in April OP 1", "https://www.youtube.com/watch?v=2Ex3bu6CxPU"],
-    ["Yugioh 5Ds English OP 1", "https://www.youtube.com/watch?v=BV0STuwQ6QM"],
-    ["Yugioh English OP 1", "https://youtu.be/Cb3ggoyqXmU?t=42"],
-    ["Yugioh GX English OP 1", "https://www.youtube.com/watch?v=CN_DjYDHEVU"],
+    ["Yu-Gi-Oh! 5Ds English OP 1", "https://youtu.be/yrA7KhVoWec"],
+    ["Yu-Gi-Oh! English OP 1", "https://youtu.be/Cb3ggoyqXmU?t=42"],
+    ["Yu-Gi-Oh! GX English OP 1", "https://www.youtube.com/watch?v=CN_DjYDHEVU"],
     ["Yuri On Ice OP 1", "https://www.youtube.com/watch?v=ORDXWrL5EuQ"],
     ["Zombieland Saga OP 1", "https://www.youtube.com/watch?v=W22SxsxXTWc"]
 ]);
@@ -286,9 +286,9 @@ teams1 = [              // Matchups
     ["Persona 5 The Animation OP 2", "Aldnoah.Zero OP 1"],
     ["MSG Iron Blooded Orphans OP 1", "7 Deadly Sins OP 1"],
     ["Mekakucity Actors OP 1", "Inuyasha OP 4"],
-    ["Yugioh English OP 1", "Twin Star Exorcists OP 1"],
+    ["Yu-Gi-Oh! English OP 1", "Twin Star Exorcists OP 1"],
     ["Twin Star Exorcists OP 2", "Angolmois OP 1"],
-    ["Yugioh GX English OP 1", "Eromanga Sensei OP 1"],
+    ["Yu-Gi-Oh! GX English OP 1", "Eromanga Sensei OP 1"],
     ["Zombieland Saga OP 1", "Tales of Zestiria The X OP 1"],
     ["Kimi no Na Wa OP", "Rage of Bahamut Virgin soul OP 2"]
 ]
@@ -380,7 +380,7 @@ teams4 = [              // Matchups
     ["Durarara OP 1", "Mononoke OP 1"],
     ["Darker Than Black OP 1", "Dr. Stone OP 1"],
     ["Laid-Back Camp OP 1", "Saga of Tanya The Evil OP 1"],
-    ["Tokyo Ghoul S1 OP 1", "Yugioh 5Ds english OP 1"],
+    ["Tokyo Ghoul S1 OP 1", "Yu-Gi-Oh! 5Ds English OP 1"],
     ["Magic Kaito 1412 OP 2", "Conception OP 1"],
     ["Cowboy Bebop OP 1", "Ef: A Tale Of Melodies OP"],
     ["Fate/Apocrypha OP 1", "Juuni Taisen OP"],
@@ -423,7 +423,11 @@ var tourneyData4 = {
                 [ 8,  0],
                 [ 6,  2],
                 [ 5,  3],
-                [ 5,  3]
+                [ 5,  3],
+                [ 4,  3],
+                [ 7,  0],
+                [ 3,  4],
+                [ 4,  3]
             ]
         ]
     ]
