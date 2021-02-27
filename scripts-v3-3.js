@@ -1,7 +1,7 @@
 vidlinks = new Map([
     ["11 Eyes OP 1", "https://www.youtube.com/watch?v=VYTkJDhKcc4"],
     ["7 Deadly Sins OP 1", "https://www.youtube.com/watch?v=kuj4d1TWesQ"],
-    ["7 Deadly Sins S2 OP 2", "https://www.youtube.com/watch?v=4QkEZl34wCo"],
+    ["7 Deadly Sins S2 OP 2", "https://youtu.be/XXg-mPeJTfk?t=31"],
     ["A Certain Magical Index II OP 1", "https://www.youtube.com/watch?v=YKvnc7z0roM"],
     ["A Certain Magical Index III OP 2", "https://www.youtube.com/watch?v=tJzF1tu7-dw"],
     ["Absolute duo OP 1", "https://www.youtube.com/watch?v=1CBctbw3c0s"],
@@ -24,7 +24,7 @@ vidlinks = new Map([
     ["Attack On Titan OP 1", "https://youtu.be/8OkpRK2_gVs"],
     ["Attack On Titan S2 OP 1", "https://www.youtube.com/watch?v=LKP-vZvjbh8"],
     ["Attack On Titan S3 OP 1", "https://www.youtube.com/watch?v=swwUoExDIng"],
-    ["Baccano! OP 1", "https://www.youtube.com/watch?v=OOZ1hsb8smQ"],
+    ["Baccano! OP 1", "https://youtu.be/HkjMsx-1q3c"],
     ["Baka And Test OP 1", "https://www.youtube.com/watch?v=CXW9KqRVa7E"],
     ["Bakemonogatari OP 1", "https://www.youtube.com/watch?v=z-caezFDfTs"],
     ["Barakamon OP", "https://www.youtube.com/watch?v=NM8y4NLBWkw"],
@@ -427,7 +427,11 @@ var tourneyData4 = {
                 [ 4,  3],
                 [ 7,  0],
                 [ 3,  4],
-                [ 4,  3]
+                [ 4,  3],
+                [ 8,  3],
+                [ 8,  3],
+                [10,  1],
+                [ 6,  5]
             ]
         ]
     ]
