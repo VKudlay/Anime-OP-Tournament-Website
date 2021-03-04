@@ -174,7 +174,7 @@ vidlinks = new Map([
     ["Naruto Shippuden OP 3", "https://www.youtube.com/watch?v=2upuBiEiXDk"],
     ["Neon Genesis Evangelion OP", "https://www.youtube.com/watch?v=t-QSmNReDyI"],
     ["Nichijou OP 1", "https://www.youtube.com/watch?v=qUk1ZoCGqsA"],
-    ["Nisekoi OP 1", "https://www.youtube.com/watch?v=ikkBnTZxGbE"],
+    ["Nisekoi OP 1", "https://youtu.be/D6kUt4sCJ6I"],
     ["Nisemonogatari OP 3", "https://www.youtube.com/watch?v=Y8SwZJAUiW4"],
     ["No Game No Life OP 1", "https://youtu.be/6CBp4qylX6I"],
     ["Noragami Aragoto OP 1", "https://youtu.be/3oFTHxkOzjE?t=7"],
@@ -435,7 +435,11 @@ var tourneyData4 = {
                 [10,  1],
                 [ 1, 10],
                 [ 9,  2],
-                [ 7,  4]
+                [ 7,  4],
+                [ 5,  3],
+                [ 6,  2],
+                [ 7,  1],
+                [ 3,  5]
             ]
         ]
     ]
