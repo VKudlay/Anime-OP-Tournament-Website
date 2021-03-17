@@ -136,7 +136,7 @@ vidlinks = new Map([
     ["Juuni Taisen OP", "https://www.youtube.com/watch?v=kR50SHtj-Og"],
     ["K-ON! OP 1", "https://www.youtube.com/watch?v=m7_-RBl0lfY"],
     ["Kabeneri of the Iron Fortress OP 1", "https://www.youtube.com/watch?v=0w-9u4SxWwc"],
-    ["Kaguya-Sama: Love is War OP 1", "https://youtu.be/0CYo0QH6dyg"],
+    ["Kaguya-Sama: Love is War OP 1", "https://youtu.be/oAY-Pxcvf7A"],
     ["Kakegurui OP 1", "https://www.youtube.com/watch?v=UOAC6GYYY-4"],
     ["Keijo!!! OP 1", "https://www.youtube.com/watch?v=Cq9cM0D_fZU"],
     ["Kekkai Sensen OP 1", "https://youtu.be/4J8jcI0WtzM?t=6"],
@@ -458,6 +458,12 @@ var tourneyData4 = {
                 [ 6,  4],
                 [ 3,  7],
                 [ 7,  3]
+            ], 
+            [
+                [ 6,  4],
+                [ 6,  4],
+                [ 1,  9],
+                [ 3,  7]
             ]
         ]
     ]
