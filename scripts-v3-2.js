@@ -1,6 +1,6 @@
 vidlinks = new Map([
     ["11 Eyes OP 1", "https://www.youtube.com/watch?v=VYTkJDhKcc4"],
-    ["7 Deadly Sins OP 1", "https://www.youtube.com/watch?v=kuj4d1TWesQ"],
+    ["7 Deadly Sins OP 1", "https://live.karaokes.moe/?video=b3e3eb8a-3242-4e4c-8961-cc2308a8a0dd"],
     ["7 Deadly Sins S2 OP 2", "https://youtu.be/XXg-mPeJTfk?t=31"],
     ["A Certain Magical Index II OP 1", "https://www.youtube.com/watch?v=YKvnc7z0roM"],
     ["A Certain Magical Index III OP 2", "https://www.youtube.com/watch?v=tJzF1tu7-dw"],
@@ -67,12 +67,12 @@ vidlinks = new Map([
     ["Day Break Illusion OP 1", "https://youtu.be/juRsXaqOTd0?t=1"],
     ["Deadman Wonderland OP 1", "https://www.youtube.com/watch?v=xc7f5tAD5U8"],
     ["Death Note OP 1", "https://www.youtube.com/watch?v=8QE9cmfxx4s"],
-    ["Death Parade OP 1", "https://www.youtube.com/watch?v=UjjTMNDZi-A"],
+    ["Death Parade OP", "https://www.youtube.com/watch?v=UjjTMNDZi-A"],
     ["Demon Slayer OP 1", "https://www.youtube.com/watch?v=pmanD_s7G3U"],
     ["Diabolik Lovers OP 1", "https://www.youtube.com/watch?v=w6hyZbaDKA8"],
     ["Dimension W OP 1", "https://www.youtube.com/watch?v=9Cqzz88jrxY"],
     ["Dirty Pair OP 1", "https://www.youtube.com/watch?v=pTMe1vhUxh0"],
-    ["Divine Gate", "https://www.youtube.com/watch?v=WLWD-DcP0ko"],
+    ["Divine Gate OP", "https://www.youtube.com/watch?v=WLWD-DcP0ko"],
     ["Domestic Girlfriend OP 1", "https://www.youtube.com/watch?v=ywhzUjQjjGI"],
     ["Dororo OP 1", "https://www.youtube.com/watch?v=5DCGQ57ykME"],
     ["Dr. Stone OP 1", "https://youtu.be/tF4faMbs5oQ"],
@@ -112,7 +112,7 @@ vidlinks = new Map([
     ["Grimgar of Fantasy and Ash", "https://www.youtube.com/watch?v=-rIE7Qr4J0U"],
     ["Guilty Crown OP 1", "https://www.youtube.com/watch?v=xmh3mNvgJBs"],
     ["Guilty Crown OP 2", "https://www.youtube.com/watch?v=gdanLoW6FgI"],
-    ["Gurren Lagann OP 1", "https://www.youtube.com/watch?v=KClW6qi020w"],
+    ["Gurren Lagann OP 1", "https://youtu.be/FwgMxjhXkKo"],
     ["Haikyuu OP 1", "https://www.youtube.com/watch?v=2---3Iysnqg"],
     ["Haiyore Nyaruko San OP 2", "https://www.youtube.com/watch?v=Yose5jKIIVY&t=1s"],
     ["Hakata Tonkatsu Ramens OP 1", "https://www.youtube.com/watch?v=JrVt1hPpkVM"],
@@ -135,7 +135,7 @@ vidlinks = new Map([
     ["Jormungand OP 1", "https://www.youtube.com/watch?v=uDhEtUl7U-A"],
     ["Juuni Taisen OP", "https://www.youtube.com/watch?v=kR50SHtj-Og"],
     ["K-ON! OP 1", "https://www.youtube.com/watch?v=m7_-RBl0lfY"],
-    ["Kabeneri of the Iron Fortress OP 1", "https://www.youtube.com/watch?v=0w-9u4SxWwc"],
+    ["Kabeneri of the Iron Fortress OP", "https://www.youtube.com/watch?v=0w-9u4SxWwc"],
     ["Kaguya-Sama: Love is War OP 1", "https://youtu.be/oAY-Pxcvf7A"],
     ["Kakegurui OP 1", "https://www.youtube.com/watch?v=UOAC6GYYY-4"],
     ["Keijo!!! OP 1", "https://www.youtube.com/watch?v=Cq9cM0D_fZU"],
@@ -143,7 +143,7 @@ vidlinks = new Map([
     ["Kekkai Sensen OP 2", "https://www.youtube.com/watch?v=_16vOCt-sYk"],
     ["Kill la Kill OP 1", "https://www.youtube.com/watch?v=ci3A3OmNHko"],
     ["Kill la Kill OP 2", "https://www.youtube.com/watch?v=qaLeO-2Fytg"],
-    ["Kimi no Na Wa OP", "https://youtu.be/qssaTnBiHLo?t=90"],
+    ["Kimi no Na Wa OP", "https://youtu.be/qUjsVvlpPBA"],
     ["Koi To Uso OP 1", "https://www.youtube.com/watch?v=VrmzXR1sI78"],
     ["Kokkoku OP", "https://www.youtube.com/watch?v=fhBA6ynorvc"],
     ["Konosuba OP 2", "https://www.youtube.com/watch?v=4JpR-M1wE5s"],
@@ -172,7 +172,7 @@ vidlinks = new Map([
     ["Naruto OP 4", "https://www.youtube.com/watch?v=xjBTNbEXbAA"],
     ["Naruto Shippuden OP 16", "https://www.youtube.com/watch?v=otxA7fpPMPc"],
     ["Naruto Shippuden OP 3", "https://www.youtube.com/watch?v=2upuBiEiXDk"],
-    ["Neon Genesis Evangelion OP", "https://www.youtube.com/watch?v=t-QSmNReDyI"],
+    ["Neon Genesis Evangelion OP", "https://youtu.be/nU21rCWkuJw"],
     ["Nichijou OP 1", "https://www.youtube.com/watch?v=qUk1ZoCGqsA"],
     ["Nisekoi OP 1", "https://youtu.be/D6kUt4sCJ6I"],
     ["Nisemonogatari OP 3", "https://www.youtube.com/watch?v=Y8SwZJAUiW4"],
@@ -275,7 +275,7 @@ teams1 = [              // Matchups
     ["Neon Genesis Evangelion OP", "Nisemonogatari OP 3"],
     ["Demon Slayer OP 1", "Anohana OP 1"],
     ["Pokemon XYZ OP 1", "Trinity Seven OP 1"],
-    ["Death Parade OP 1", "Watamote OP 1"],
+    ["Death Parade OP", "Watamote OP 1"],
     ["Kill la Kill OP 2", "Lucky Star OP 1"],
     ["Steins;Gate 0 OP 1", "Akame Ga Kill OP 1"],
     ["Kakegurui OP 1", "Boogiepop Phantom (2018) OP 1"],
@@ -317,7 +317,7 @@ teams2 = [              // Matchups
     ["Re:Creators OP 1", "Piano no Mori OP 1"],
     ["Violet Evergarden OP 1", "Blue Exorcist OP 2"],
     ["The Irregular at Magic High School OP 1", "Black Lagoon OP 1"],
-    ["Divine Gate", "The Irregular at Magic High School OP 2 "],
+    ["Divine Gate OP", "The Irregular at Magic High School OP 2 "],
     ["Re:Zero OP 2", "Clannad After Story OP 1"],
     ["Death Note OP 1", "Blend S OP 1"],
     ["SAO Alicization OP 1", "Hakata Tonkatsu Ramens OP 1"],
@@ -385,7 +385,7 @@ teams4 = [              // Matchups
     ["Cowboy Bebop OP 1", "Ef: A Tale Of Melodies OP"],
     ["Fate/Apocrypha OP 1", "Juuni Taisen OP"],
     ["Baccano! OP 1", "Berserk 2016 OP 1"],
-    ["7 Deadly Sins S2 OP 2", "Kabeneri of the Iron Fortress OP 1"],
+    ["7 Deadly Sins S2 OP 2", "Kabeneri of the Iron Fortress OP"],
     ["Psycho-Pass OP 1", "Darling in the Franxx OP 1"],
     ["Black Clover OP 4", "Inuyashiki OP"],
     ["Fire Force OP 1", "Accel World OP 2"],
@@ -398,6 +398,25 @@ teams4 = [              // Matchups
     ["Re:Zero OP 1", "Nisekoi OP 1"]
 ]
 
+teams5 = [              // Matchups
+    ["Gurren Lagann OP 1", "Steins:Gate OP 1"],
+    ["Black Clover OP 3", "Neon Genesis Evangelion OP"],
+    ["Death Parade OP", "Pokemon OP 1"],
+    ["7 Deadly Sins OP 1", "Kimi no Na Wa OP"],
+    ["Caligula OP 1", "Attack On Titan S2 OP 1"],
+    ["Fullmetal Alchemist B OP 1", "Drifters OP 1"],
+    ["Code Geass OP 1", "Divine Gate OP"],
+    ["The World God Only Knows OP 1", "Magi OP 1"],
+    ["Noragami Aragoto OP 1", "Soul Eater OP 2"],
+    ["Guilty Crown OP 1", "Attack On Titan OP 1"],
+    ["Slime OP 1", "Deadman Wonderland OP 1"],
+    ["Inu X Boku SS OP 1", "Fate/Zero OP 2"],
+    ["Kaguya-Sama: Love is War OP 1", "My Hero Aca S1 OP"],
+    ["SAO OP 1", "Durarara OP 1"],
+    ["Cowboy Bebop OP 1", "Kabeneri of the Iron Fortress OP"],
+    ["Fate/Stay Night UBW OP 2", "Assassination Classroom S2 OP 2"],
+]
+
 for (var i = 0; i < teams1.length; i++) {
   for (var j = 0; j < 2; j++) {
     teams1[i][j] = "<a href='" + vidlinks.get(teams1[i][j]) + "' target='_blank'>" + teams1[i][j] + "</a>"
@@ -407,67 +426,18 @@ for (var i = 0; i < teams1.length; i++) {
   }
 }
 
-var tourneyData4 = {
-    "teams":   teams4,
+for (var i = 0; i < teams5.length; i++) {
+    for (var j = 0; j < 2; j++) {
+      teams5[i][j] = "<a href='" + vidlinks.get(teams5[i][j]) + "' target='_blank'>" + teams5[i][j] + "</a>"
+    }
+  }
+
+var tourneyData5 = {
+    "teams":   teams5,
     "results": [            // List of brackets (single elimination, so only one bracket)
         [
             [
-                [10,  0],
-                [ 7,  3],
-                [10,  0],
-                [ 4,  6],
-                [ 0,  7],
-                [ 3,  4],
-                [ 6,  1],
-                [ 6,  1],
-                [ 8,  0],
-                [ 6,  2],
-                [ 5,  3],
-                [ 5,  3],
-                [ 4,  3],
-                [ 7,  0],
-                [ 3,  4],
-                [ 4,  3],
-                [ 8,  3],
-                [ 8,  3],
-                [10,  1],
-                [ 6,  5],
-                [10,  1],
-                [ 1, 10],
-                [ 9,  2],
-                [ 7,  4],
-                [ 5,  3],
-                [ 6,  2],
-                [ 7,  1],
-                [ 3,  5],
-                [ 3,  4],
-                [ 5,  2],
-                [ 2,  5],
-                [ 5,  2]
-            ], 
-            [
-                [ 6,  1],
-                [ 5,  2],
-                [ 5,  2],
-                [ 3,  4],
-                [ 3,  6],
-                [ 4,  5],
-                [ 1,  8],
-                [ 4,  5],
-                [ 7,  3],
-                [ 6,  4],
-                [ 3,  7],
-                [ 7,  3],                
-                [ 6,  4],
-                [ 6,  4],
-                [ 1,  9],
-                [ 3,  7]
-            ], 
-            [
-                [ 7,  3],
-                [ 2,  8],
-                [ 6,  4],
-                [ 6,  4]
+                
             ]
         ]
     ]
@@ -713,6 +683,76 @@ var tourneyData3 = {
     ]
 }
 
+var tourneyData4 = {
+    "teams":   teams4,
+    "results": [            // List of brackets (single elimination, so only one bracket)
+        [
+            [
+                [10,  0],
+                [ 7,  3],
+                [10,  0],
+                [ 4,  6],
+                [ 0,  7],
+                [ 3,  4],
+                [ 6,  1],
+                [ 6,  1],
+                [ 8,  0],
+                [ 6,  2],
+                [ 5,  3],
+                [ 5,  3],
+                [ 4,  3],
+                [ 7,  0],
+                [ 3,  4],
+                [ 4,  3],
+                [ 8,  3],
+                [ 8,  3],
+                [10,  1],
+                [ 6,  5],
+                [10,  1],
+                [ 1, 10],
+                [ 9,  2],
+                [ 7,  4],
+                [ 5,  3],
+                [ 6,  2],
+                [ 7,  1],
+                [ 3,  5],
+                [ 3,  4],
+                [ 5,  2],
+                [ 2,  5],
+                [ 5,  2]
+            ], 
+            [
+                [ 6,  1],
+                [ 5,  2],
+                [ 5,  2],
+                [ 3,  4],
+                [ 3,  6],
+                [ 4,  5],
+                [ 1,  8],
+                [ 4,  5],
+                [ 7,  3],
+                [ 6,  4],
+                [ 3,  7],
+                [ 7,  3],                
+                [ 6,  4],
+                [ 6,  4],
+                [ 1,  9],
+                [ 3,  7]
+            ], 
+            [
+                [ 7,  3],
+                [ 2,  8],
+                [ 6,  4],
+                [ 6,  4],
+                [ 5,  6],
+                [ 6,  5],
+                [ 5,  6],
+                [ 6,  5]
+            ]
+        ]
+    ]
+}
+
 $(function() {
     $('#tourney-1').bracket({
       init: tourneyData1,
@@ -740,6 +780,14 @@ $(function() {
 $(function() {
     $('#tourney-4').bracket({
       init: tourneyData4,
+      teamWidth: Math.max(200, screen.width/6)
+    })
+  }
+)
+
+$(function() {
+    $('#tourney-5').bracket({
+      init: tourneyData5,
       teamWidth: Math.max(200, screen.width/6)
     })
   }
