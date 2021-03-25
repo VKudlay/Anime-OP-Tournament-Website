@@ -437,7 +437,10 @@ var tourneyData5 = {
     "results": [            // List of brackets (single elimination, so only one bracket)
         [
             [
-                
+                [ 3,  9],
+                [ 4,  8], 
+                [ 8,  4],
+                [ 5,  7]
             ]
         ]
     ]
