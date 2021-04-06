@@ -64,6 +64,21 @@ main h1 {
 .tourneydiv .round:nth-of-type(n+4) .connector {
   display: none !important;
 }
+.tourneydiv .round:nth-of-type(n+3) .connector {
+  display: none !important;
+}
+
+#tourney-5 .round:nth-of-type(n+5):nth-of-type(-n+6) {
+  display: inline-block !important;
+}
+#tourney-5 .round:nth-of-type(n+4) .connector {
+  display: inline-block !important;
+}
+#tourney-5 .round:nth-of-type(n+3) .connector {
+  display: inline-block !important;
+}
+
+
 
 .bracket, .round {
   float: left !important;
