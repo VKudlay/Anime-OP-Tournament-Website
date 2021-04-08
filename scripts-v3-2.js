@@ -417,21 +417,18 @@ teams5 = [              // Matchups
     ["Fate/Stay Night UBW OP 2", "Assassination Classroom S2 OP 2"],
 ]
 
-for (var i = 0; i < teams1.length; i++) {
-  for (var j = 0; j < 2; j++) {
-    teams1[i][j] = "<a href='" + vidlinks.get(teams1[i][j]) + "' target='_blank'>" + teams1[i][j] + "</a>"
-    teams2[i][j] = "<a href='" + vidlinks.get(teams2[i][j]) + "' target='_blank'>" + teams2[i][j] + "</a>"
-    teams3[i][j] = "<a href='" + vidlinks.get(teams3[i][j]) + "' target='_blank'>" + teams3[i][j] + "</a>"
-    teams4[i][j] = "<a href='" + vidlinks.get(teams4[i][j]) + "' target='_blank'>" + teams4[i][j] + "</a>"
-  }
-}
-
-for (var i = 0; i < teams5.length; i++) {
-    for (var j = 0; j < 2; j++) {
-      teams5[i][j] = "<a href='" + vidlinks.get(teams5[i][j]) + "' target='_blank'>" + teams5[i][j] + "</a>"
+for (var j = 0; j < 2; j++) {
+    for (var i = 0; i < teams1.length; i++) {
+        teams1[i][j] = "<a href='" + vidlinks.get(teams1[i][j]) + "' target='_blank'>" + teams1[i][j] + "</a>"
+        teams2[i][j] = "<a href='" + vidlinks.get(teams2[i][j]) + "' target='_blank'>" + teams2[i][j] + "</a>"
+        teams3[i][j] = "<a href='" + vidlinks.get(teams3[i][j]) + "' target='_blank'>" + teams3[i][j] + "</a>"
+        teams4[i][j] = "<a href='" + vidlinks.get(teams4[i][j]) + "' target='_blank'>" + teams4[i][j] + "</a>"
     }
-  }
 
+    for (var i = 0; i < teams5.length; i++) {
+        teams5[i][j] = "<a href='" + vidlinks.get(teams5[i][j]) + "' target='_blank'>" + teams5[i][j] + "</a>"
+    }
+}
 var tourneyData5 = {
     "teams":   teams5,
     "results": [            // List of brackets (single elimination, so only one bracket)
@@ -463,6 +460,12 @@ var tourneyData5 = {
                 [ 2, 11],
                 [ 7,  6],
                 [ 3, 10]
+            ], 
+            [
+                [ 8, 11],
+                [13,  6], 
+                [12,  7],
+                [10,  9]
             ]
         ]
     ]
